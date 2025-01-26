@@ -1,0 +1,26 @@
+{
+  "name": "or-code-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangampshinde/QR-Code-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangampshinde/QR-Code-Generator/issues"
+  },
+  "homepage": "https://github.com/sangampshinde/QR-Code-Generator#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "pdfkit": "^0.16.0",
+    "qrcode": "^1.5.4"
+  }
+}
